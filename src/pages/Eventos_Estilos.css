@@ -1,0 +1,25 @@
+nav {
+  background-color: blue;
+  color:white;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  align-items: center;
+  list-style-type: none;
+  padding: 20px;
+}
+li {
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+  width: 150px;
+}
+.linkpagina {
+  color: yellow;
+}
+.conteudo {
+  background-color: lightblue;
+  text-align: center;
+}
